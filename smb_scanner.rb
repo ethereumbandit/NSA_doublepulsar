@@ -1,7 +1,7 @@
 ##
 # This module requires Metasploit: http://metasploit.com/download
 # Current source: https://github.com/rapid7/metasploit-framework
-#By Subham Dasgupta 
+# Exploit by bandit
 ##
 
 class MetasploitModule < Msf::Auxiliary
